@@ -1,6 +1,7 @@
  🌌 Lost in Space
 
 Welcome to Lost in Space, a fascinating website exploring the mysteries of the cosmos! This project presents exciting blogs and insights about the universe, from black holes to cosmic webs.
+
  🚀 Features
 Home Page: Welcomes users with an engaging space-themed UI.
 Blogs Section: Includes topics like black holes, nebulae, and cosmic mysteries.
