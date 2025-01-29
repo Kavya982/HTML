@@ -4,8 +4,11 @@ Welcome to Lost in Space, a fascinating website exploring the mysteries of the c
 
  🚀 Features
 Home Page: Welcomes users with an engaging space-themed UI.
+
 Blogs Section: Includes topics like black holes, nebulae, and cosmic mysteries.
+
 Navigation Bar: Quick access to home, view more, contact, and profile pages.
+
 Interactive Elements: Engaging images, descriptions, and buttons for exploring space phenomena.
 
 🛠️ Technologies Used
@@ -13,7 +16,9 @@ HTML: Structuring the web pages.
 
 📂 File Structure
 index.html - Main page with cosmic mysteries.
+
 Home.html - Homepage with featured blogs.
+
 assets - Contains images for blogs and icons.
 
 📌 How to Use
