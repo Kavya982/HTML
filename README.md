@@ -34,3 +34,6 @@ assets - Contains images for blogs and icons.
 - Enhance UI with CSS stylesheets.
 - Add JavaScript for interactive elements.
 - Include a database for user-generated content.
+
+
+![Screenshot (388)](https://github.com/user-attachments/assets/00cf57c0-349c-428f-ab3f-d93aca210ac8)
