@@ -37,3 +37,6 @@ assets - Contains images for blogs and icons.
 
 
 ![Screenshot (388)](https://github.com/user-attachments/assets/00cf57c0-349c-428f-ab3f-d93aca210ac8)
+
+![Screenshot (387)](https://github.com/user-attachments/assets/70cce3de-a308-46d8-88ce-1f6d4d48b422)
+
